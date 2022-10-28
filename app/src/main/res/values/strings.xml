@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WordsForMovie</string>
+    <string name="Movies_name" />
+    <string name="movie_name">Movie name</string>
+    <string name="description">Description</string>
+</resources>
+//untuk memperlihatkan atau menampilkan teks dan title pada aplikasi
